@@ -63,9 +63,16 @@ can be analyzed by Gemini and classified based on the information provided.
 
 [Add demo video link here]
 
-## Screenshots
 
-Screenshots of the workflow and automation will be added here.
+
+## Screenshots
+<img width="1894" height="994" alt="Screenshot 2026-09-28 200251-redacted" src="https://github.com/user-attachments/assets/3dd21383-8d0a-4bb5-98bf-86eecb574e0e" />
+<img width="878" height="391" alt="Screenshot 2026-09-28 002456" src="https://github.com/user-attachments/assets/1999137e-a24e-4a6c-97f3-9db90e7b4634" />
+<img width="1900" height="1002" alt="1000386772" src="https://github.com/user-attachments/assets/45431b95-28b1-44a9-adeb-e9149049529e" />
+
+
+
+
 
 
 
