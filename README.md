@@ -61,8 +61,7 @@ can be analyzed by Gemini and classified based on the information provided.
 
 ## Project Demo
 
-[Add demo video link here]
-
+https://drive.google.com/file/d/1xqykeKh4dirFpu91jrtHk-FjCbQajabI/view?usp=sharing
 
 
 ## Screenshots
